@@ -16,7 +16,7 @@
 #faviconscontainer {
     margin: 20px auto;
     width: 400px;
-    height: 400px;
+    height: 200px;
     background-color: #fff;
     display: grid;
     grid-template-columns: 200px 200px;
@@ -43,4 +43,5 @@
 
 a {
     color: white;
+    text-decoration: none;
 }
